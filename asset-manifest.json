@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/suspense_list_struggles/static/css/main.ff0f4af9.chunk.css",
-    "main.js": "/suspense_list_struggles/static/js/main.5e08d084.chunk.js",
-    "main.js.map": "/suspense_list_struggles/static/js/main.5e08d084.chunk.js.map",
+    "main.js": "/suspense_list_struggles/static/js/main.09f6cd17.chunk.js",
+    "main.js.map": "/suspense_list_struggles/static/js/main.09f6cd17.chunk.js.map",
     "runtime-main.js": "/suspense_list_struggles/static/js/runtime-main.f0a918fb.js",
     "runtime-main.js.map": "/suspense_list_struggles/static/js/runtime-main.f0a918fb.js.map",
     "static/js/2.90fe6e1d.chunk.js": "/suspense_list_struggles/static/js/2.90fe6e1d.chunk.js",
     "static/js/2.90fe6e1d.chunk.js.map": "/suspense_list_struggles/static/js/2.90fe6e1d.chunk.js.map",
     "index.html": "/suspense_list_struggles/index.html",
-    "precache-manifest.025ec65a8720303e83233c750dc4c669.js": "/suspense_list_struggles/precache-manifest.025ec65a8720303e83233c750dc4c669.js",
+    "precache-manifest.271df374997c25d902a0ceea260a7f3b.js": "/suspense_list_struggles/precache-manifest.271df374997c25d902a0ceea260a7f3b.js",
     "service-worker.js": "/suspense_list_struggles/service-worker.js",
     "static/css/main.ff0f4af9.chunk.css.map": "/suspense_list_struggles/static/css/main.ff0f4af9.chunk.css.map",
     "static/js/2.90fe6e1d.chunk.js.LICENSE": "/suspense_list_struggles/static/js/2.90fe6e1d.chunk.js.LICENSE",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.f0a918fb.js",
     "static/js/2.90fe6e1d.chunk.js",
     "static/css/main.ff0f4af9.chunk.css",
-    "static/js/main.5e08d084.chunk.js"
+    "static/js/main.09f6cd17.chunk.js"
   ]
 }
