@@ -7,29 +7,29 @@ const Home = () => (
       <Link
         to={`${process.env.PUBLIC_URL}/suspense-list-no-keys`}
       >
-        Suspense List Without Keys
+        SuspenseList Without Keys
       </Link>
     </li>
     <li>
       <Link
         to={`${process.env.PUBLIC_URL}/suspense-list-with-keys`}
       >
-        Suspense List With Keys
+        SuspenseList With Keys
       </Link>
     </li>
     <li>
       <Link to={`${process.env.PUBLIC_URL}/suspense-list-with-keys-and-transition`}>
-        Suspense List With Keys and Transition
+        SuspenseList With Keys and Transition
       </Link>
     </li>
     <li>
       <Link to={`${process.env.PUBLIC_URL}/suspense-list-nested-in-suspense`}>
-        Suspense List Nested in Suspense
+        SuspenseList Nested in Suspense
       </Link>
     </li>
     <li>
       <Link to={`${process.env.PUBLIC_URL}/suspense-list-hacky`}>
-        Hacky Solution to Suspense List Issues
+        Hacky Solution to SuspenseList Issues
       </Link>
     </li>
   </ul>
