@@ -15,7 +15,7 @@ import './App.css';
 const App = () => {
   return (
     <div className='App-main'>
-      <h1 className='project-title'>Suspense API Demo</h1>
+      <h1 className='project-title'>SuspenseList Struggles</h1>
       <Router>
         <Switch>
           <Route path={`${process.env.PUBLIC_URL}/suspense-list-no-keys`}>
