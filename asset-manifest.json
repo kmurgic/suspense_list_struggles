@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/suspense_list_struggles/static/css/main.ff0f4af9.chunk.css",
+    "main.js": "/suspense_list_struggles/static/js/main.5e08d084.chunk.js",
+    "main.js.map": "/suspense_list_struggles/static/js/main.5e08d084.chunk.js.map",
+    "runtime-main.js": "/suspense_list_struggles/static/js/runtime-main.f0a918fb.js",
+    "runtime-main.js.map": "/suspense_list_struggles/static/js/runtime-main.f0a918fb.js.map",
+    "static/js/2.90fe6e1d.chunk.js": "/suspense_list_struggles/static/js/2.90fe6e1d.chunk.js",
+    "static/js/2.90fe6e1d.chunk.js.map": "/suspense_list_struggles/static/js/2.90fe6e1d.chunk.js.map",
+    "index.html": "/suspense_list_struggles/index.html",
+    "precache-manifest.025ec65a8720303e83233c750dc4c669.js": "/suspense_list_struggles/precache-manifest.025ec65a8720303e83233c750dc4c669.js",
+    "service-worker.js": "/suspense_list_struggles/service-worker.js",
+    "static/css/main.ff0f4af9.chunk.css.map": "/suspense_list_struggles/static/css/main.ff0f4af9.chunk.css.map",
+    "static/js/2.90fe6e1d.chunk.js.LICENSE": "/suspense_list_struggles/static/js/2.90fe6e1d.chunk.js.LICENSE",
+    "static/media/Yoda.png": "/suspense_list_struggles/static/media/Yoda.497b8e02.png",
+    "static/media/hanSolo.jpg": "/suspense_list_struggles/static/media/hanSolo.e9f93d51.jpg",
+    "static/media/leia.jpg": "/suspense_list_struggles/static/media/leia.14e6dd5c.jpg",
+    "static/media/loadingSpinner.gif": "/suspense_list_struggles/static/media/loadingSpinner.be0d9fd5.gif",
+    "static/media/luke.jpg": "/suspense_list_struggles/static/media/luke.7062f8ac.jpg",
+    "static/media/obiwan.jpg": "/suspense_list_struggles/static/media/obiwan.6576a96a.jpg",
+    "static/media/palpatine.jpeg": "/suspense_list_struggles/static/media/palpatine.32fb73ae.jpeg",
+    "static/media/vader.png": "/suspense_list_struggles/static/media/vader.1dcacb03.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0a918fb.js",
+    "static/js/2.90fe6e1d.chunk.js",
+    "static/css/main.ff0f4af9.chunk.css",
+    "static/js/main.5e08d084.chunk.js"
+  ]
+}
